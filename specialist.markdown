@@ -77,10 +77,6 @@ At 15th level, your superiority dice turn into d6s.
 
 Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
-#### Kill Shot
-
-[At 15th level, your Arcane Jolt becomes more powerful. The extra damage of your Arcane Jolt increases to 4d6.]
-
 
 \page
 
@@ -119,7 +115,7 @@ _You may instead attempt to grab the item from the creature. Using at least one 
 
 **Rally**. Per PHB.
 
-**Restraining Strike**. Immediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target (see chapter 9 in the _Player’s Handbook_ for rules on grappling). Add the superiority die to your Strength (Athletics) check. The target is also restrained while grappled in this way.
+**Restraining Strike**. Immediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target. Add the superiority die to your Strength (Athletics) check. The target is also restrained while grappled in this way.
 
 **Riposte**. When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee _or ranged_ weapon attack against the creature. If you hit, you add the superiority die to the damage roll.
 
@@ -146,7 +142,7 @@ Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. 
 | 3rd | Tool Proficiency,<br />Battle Ready,<br /> Expertise |
 | 5th | Extra Attack,<br /> Close Quarters Shooter |
 | 9th | Superior Critical |
-| 15th | Kill Shot,<br />Improved Combat Superiority |
+| 15th | Improved Combat Superiority |
 
 
 
@@ -272,10 +268,6 @@ While you are wearing armor, you gain a +1 bonus to AC.
 #### Dueling
 
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-
-#### Great Weapon Fighting
-
-When you roll a 1 or a 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 
 #### Unarmed Fighting
 
