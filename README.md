@@ -1,4 +1,4 @@
-# ua-template
+# ua-artificer gunsmith
 
 For use with Homebrewery Naturalcrit. 
 
