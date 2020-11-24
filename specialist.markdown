@@ -433,6 +433,14 @@ Use the tables for the criminal background in the _Player's Handbook_ as the bas
 
 \page
 
+<div class='wide'>
+<img
+  src="https://github.com/since1968/ua-images/blob/main/gunslinger-roland.jpg?raw=true" style='position:absolute;left:0px;bottom:-80px;width:780px;z-index:500' />
+</div>
+
+
+\page
+
 ## Design Notes for the Gunsmith aka "The Transporter"
 ### Inspiration
 
