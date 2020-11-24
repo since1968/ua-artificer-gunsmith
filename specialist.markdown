@@ -80,6 +80,15 @@ Starting at 15th level, when you roll initiative and have no superiority dice re
 
 \page
 
+<div class='wide'>
+<img
+  src="https://github.com/since1968/ua-images/blob/main/Gunslinger.jpg?raw=true" style='position:absolute;left:0px;bottom:0px;width:780px;z-index:500' />
+</div>
+
+
+
+\page
+
 ## Maneuvers
 The maneuvers are presented in alphabetical order. Unless the full text of a maneuver is provided here, each manuever is identical to those listed on page 74 of the _Player's Handbook_. Where maneuvers have been modified from the PHB, the modifications are shown in _italics_.
 
@@ -147,7 +156,6 @@ Several Gunsmith maneuvers allow you to make a ranged attack at close quarters. 
 
 
 \page
-
 
 ## Infusions
 The following infusions are added to the list of infusions you can learn as an artificer. 
